@@ -151,34 +151,34 @@
    <div class="box-container">
 
       <div class="box">
-         <div class="image">
-            <img src="images/img-1.jpg" alt="">
+      <div class="image">
+            <img src="images/canal.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+            <h3>enjoy our services</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
 
       <div class="box">
-         <div class="image">
-            <img src="images/img-2.jpg" alt="">
+      <div class="image">
+            <img src="images/elect-security.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+            <h3>electrical safety</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
       
       <div class="box">
-         <div class="image">
-            <img src="images/img-3.jpg" alt="">
+      <div class="image">
+            <img src="images/cell-phone-1.png" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+            <h3>Cellphone sales</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
